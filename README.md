@@ -43,7 +43,6 @@ I specialize in building intelligent systems that combine **machine learning, so
 ---
 
 ## 📫 How to Reach Me
-* 🐙 GitHub: [Srealm-1](https://github.com/Srealm-1)
 * Gmail : (everlinewilson60@gmail.com )
 
 ---
